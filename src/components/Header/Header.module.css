@@ -1,0 +1,38 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(192, 192, 192);
+    border-bottom: 1.5px solid rgb(66, 66, 66);
+}
+
+.photo{
+    margin-block: 25px;
+    width: 75px;
+    border-radius: 50%;
+}
+
+.title{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
+.createdBy{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+@media (min-width: 900px){
+   .wrapper{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center;
+    }
+    .createdBy{
+        margin-bottom: 0;
+    }
+    .photo{
+        width: 100px;
+    }
+}
