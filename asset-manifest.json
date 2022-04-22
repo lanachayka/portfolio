@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.705ede57.css",
-    "main.js": "/portfolio/static/js/main.bb695bdc.js",
+    "main.js": "/portfolio/static/js/main.5a1fb006.js",
     "static/media/plant-shop.png": "/portfolio/static/media/plant-shop.121ab00cf5711b852af3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.bf0e809486443018684d.png",
     "static/media/space-travel.png": "/portfolio/static/media/space-travel.e2a33fcaf48ffa09e551.png",
@@ -14,10 +14,10 @@
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.d080a0dd755de85c57e6.jpg",
     "index.html": "/portfolio/index.html",
     "main.705ede57.css.map": "/portfolio/static/css/main.705ede57.css.map",
-    "main.bb695bdc.js.map": "/portfolio/static/js/main.bb695bdc.js.map"
+    "main.5a1fb006.js.map": "/portfolio/static/js/main.5a1fb006.js.map"
   },
   "entrypoints": [
     "static/css/main.705ede57.css",
-    "static/js/main.bb695bdc.js"
+    "static/js/main.5a1fb006.js"
   ]
 }
