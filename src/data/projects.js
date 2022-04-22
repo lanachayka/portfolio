@@ -28,7 +28,7 @@ export const projects = [
         name: 'Country List',
         url: 'https://lanachayka.github.io/country-list/',
         photo: 'country-list.png',
-        technologies: ['React', 'GraphQL'],
+        technologies: ['React', 'GraphQL', 'Typescript'],
         description: 'Website with information about countries. Data is displayed using GraphQL Apollo Client. Realized search and output of details. Unit testing using Enzyme and React Testing Library.'
     },
     {
