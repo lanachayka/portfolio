@@ -2,7 +2,7 @@ import React from 'react'
 import st from './ProjectItem.module.css'
 
 export default function ProjectItem({ project }) {
-  const { name, url, photo, technologies, description } = project
+  const { name, url, photo, technologies, description, source } = project
   const photoUrl = require(`../../data/screenshots/${photo}`)
   return (
     <div className={st.wrapper}>
@@ -13,7 +13,8 @@ export default function ProjectItem({ project }) {
                 <p key={techology}>{techology}</p>
             ))}
         </div>
-        <p className={st.description}>{description}</p>
+      <p className={st.description}>{description}</p>
+      <a className={st.linkCode} rel="noreferrer" href={source} target="_blank">Source code</a>
     </div>
   )
 }
