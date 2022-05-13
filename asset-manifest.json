@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.705ede57.css",
-    "main.js": "/portfolio/static/js/main.5a1fb006.js",
+    "main.css": "/portfolio/static/css/main.65a33aab.css",
+    "main.js": "/portfolio/static/js/main.df7547c2.js",
     "static/media/plant-shop.png": "/portfolio/static/media/plant-shop.121ab00cf5711b852af3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.bf0e809486443018684d.png",
     "static/media/space-travel.png": "/portfolio/static/media/space-travel.e2a33fcaf48ffa09e551.png",
@@ -11,13 +11,14 @@
     "static/media/converter.png": "/portfolio/static/media/converter.e150275abb0ed8557915.png",
     "static/media/drag-drop.png": "/portfolio/static/media/drag-drop.1727d11a8e3d9a631010.png",
     "static/media/chat-app.png": "/portfolio/static/media/chat-app.303b0c89cbc34bb9fecd.png",
+    "static/media/event-calendar.png": "/portfolio/static/media/event-calendar.f1c80fb1d853cfa71b53.png",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.d080a0dd755de85c57e6.jpg",
     "index.html": "/portfolio/index.html",
-    "main.705ede57.css.map": "/portfolio/static/css/main.705ede57.css.map",
-    "main.5a1fb006.js.map": "/portfolio/static/js/main.5a1fb006.js.map"
+    "main.65a33aab.css.map": "/portfolio/static/css/main.65a33aab.css.map",
+    "main.df7547c2.js.map": "/portfolio/static/js/main.df7547c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.705ede57.css",
-    "static/js/main.5a1fb006.js"
+    "static/css/main.65a33aab.css",
+    "static/js/main.df7547c2.js"
   ]
 }
