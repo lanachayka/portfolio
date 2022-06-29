@@ -89,4 +89,13 @@ export const projects = [
         technologies: ['React', 'Redux', 'TypeScript', 'Ant design'],
         description: 'Event Calendar App. Login and Logout ability by using "user", "admin", "timur" usernames and password "123". After login implemented the ability to create events and invite guests. '
     },
+    {
+        id: 10,
+        name: 'Custom Select Input',
+        url: 'https://lanachayka.github.io/custom-select-input/',
+        source: 'https://github.com/lanachayka/custom-select-input',
+        photo: 'custom-select-input.png',
+        technologies: ['React', 'TypeScript', 'Sass'],
+        description: 'This is custom select input, which gives you the ability to select from the list of options and create new options.'
+    },
 ];
