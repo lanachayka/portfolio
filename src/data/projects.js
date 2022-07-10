@@ -37,6 +37,15 @@ export const projects = [
     },
     {
         id: 4,
+        name: 'URL Shortening App',
+        url: 'https://lanachayka.github.io/url-shortening/',
+        source: 'https://github.com/lanachayka/url-shortening',
+        photo: 'shortly.png',
+        technologies: ['React', 'TypeScript', 'Sass', 'Rest Api'],
+        description: 'This landing page allows you to short and copy links. Integrate with the shrtcode URL shortening API.'
+    },
+    {
+        id: 5,
         name: 'Converter',
         url: 'https://lanachayka.github.io/converter/',
         source: 'https://github.com/lanachayka/converter',
@@ -45,7 +54,7 @@ export const projects = [
         description: 'Units converter (length, weight, temperature) based on React and TypeScript. Functionality: conversion drop-down list, date and time.'
     },
     {
-        id: 5,
+        id: 6,
         name: 'Weather App',
         url: 'https://lanachayka.github.io/weather-app/',
         source: 'https://github.com/lanachayka/weather-app',
@@ -54,22 +63,13 @@ export const projects = [
         description: 'Weather forecast site. Data processing from the server is implemented with Redux Toolkit. The preprocessor Less is used for styles.'
     },
     {
-        id: 6,
+        id: 7,
         name: 'Quiz',
         url: 'https://lanachayka.github.io/quiz/',
         source: 'https://github.com/lanachayka/quiz',
         photo: 'quiz.png',
         technologies: ['React', 'Redux'],
         description: 'Website - quiz based on React and Redux. Opportunities to choose a topic and pass the quiz.'
-    },
-    {
-        id: 7,
-        name: 'Drag & Drop',
-        url: 'https://lanachayka.github.io/drag-drop-typescript/',
-        source: 'https://github.com/lanachayka/drag-drop-typescript',
-        photo: 'drag-drop.png',
-        technologies: ['TypeScript'],
-        description: 'TypeScript project using modals, classes, interfaces and decorators. Functions: add new projects, move them between active and finished'
     },
     {
         id: 8,
@@ -88,14 +88,5 @@ export const projects = [
         photo: 'event-calendar.png',
         technologies: ['React', 'Redux', 'TypeScript', 'Ant design'],
         description: 'Event Calendar App. Login and Logout ability by using "user", "admin", "timur" usernames and password "123". After login implemented the ability to create events and invite guests. '
-    },
-    {
-        id: 10,
-        name: 'Custom Select Input',
-        url: 'https://lanachayka.github.io/custom-select-input/',
-        source: 'https://github.com/lanachayka/custom-select-input',
-        photo: 'custom-select-input.png',
-        technologies: ['React', 'TypeScript', 'Sass'],
-        description: 'This is custom select input, which gives you the ability to select from the list of options and create new options.'
     },
 ];
