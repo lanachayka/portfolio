@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.65a33aab.css",
-    "main.js": "/portfolio/static/js/main.faa89c06.js",
+    "main.js": "/portfolio/static/js/main.23d894e0.js",
     "static/media/plant-shop.png": "/portfolio/static/media/plant-shop.121ab00cf5711b852af3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.bf0e809486443018684d.png",
     "static/media/space-travel.png": "/portfolio/static/media/space-travel.e2a33fcaf48ffa09e551.png",
     "static/media/happy-hostel.png": "/portfolio/static/media/happy-hostel.d4fff2c92d1ebadd4053.png",
+    "static/media/converter.png": "/portfolio/static/media/converter.57deb9fad91f402d580e.png",
     "static/media/country-list.png": "/portfolio/static/media/country-list.f1eef6f73d70c4d8e214.png",
     "static/media/weather-app.png": "/portfolio/static/media/weather-app.e3e369c258daac492a2e.png",
     "static/media/shortly.png": "/portfolio/static/media/shortly.621262bf77a0397c2c7d.png",
-    "static/media/converter.png": "/portfolio/static/media/converter.e150275abb0ed8557915.png",
     "static/media/chat-app.png": "/portfolio/static/media/chat-app.303b0c89cbc34bb9fecd.png",
     "static/media/event-calendar.png": "/portfolio/static/media/event-calendar.f1c80fb1d853cfa71b53.png",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.d080a0dd755de85c57e6.jpg",
     "index.html": "/portfolio/index.html",
     "main.65a33aab.css.map": "/portfolio/static/css/main.65a33aab.css.map",
-    "main.faa89c06.js.map": "/portfolio/static/js/main.faa89c06.js.map"
+    "main.23d894e0.js.map": "/portfolio/static/js/main.23d894e0.js.map"
   },
   "entrypoints": [
     "static/css/main.65a33aab.css",
-    "static/js/main.faa89c06.js"
+    "static/js/main.23d894e0.js"
   ]
 }
