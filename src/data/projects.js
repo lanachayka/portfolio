@@ -28,6 +28,15 @@ export const projects = [
     },
     {
         id: 3,
+        name: 'Fashion House',
+        url: 'https://lanachayka.github.io/fashion-house/',
+        source: 'https://github.com/lanachayka/fashion-house',
+        photo: 'fashion-house.png',
+        technologies: ['React', 'TypeScript'],
+        description: 'Fashion shop website. I am currently worked with this project.'
+    },
+    {
+        id: 4,
         name: 'Country List',
         url: 'https://lanachayka.github.io/country-list/',
         source: 'https://github.com/lanachayka/country-list',
@@ -36,7 +45,7 @@ export const projects = [
         description: 'Website with information about countries. Data is displayed using GraphQL Apollo Client. Realized search and output of details. Unit testing using Enzyme and React Testing Library.'
     },
     {
-        id: 4,
+        id: 5,
         name: 'URL Shortening App',
         url: 'https://lanachayka.github.io/url-shortening/',
         source: 'https://github.com/lanachayka/url-shortening',
@@ -45,7 +54,7 @@ export const projects = [
         description: 'This landing page allows you to short and copy links. Integrate with the shrtcode URL shortening API.'
     },
     {
-        id: 5,
+        id: 6,
         name: 'Converter',
         url: 'https://lanachayka.github.io/converter/',
         source: 'https://github.com/lanachayka/converter',
@@ -54,7 +63,7 @@ export const projects = [
         description: 'Units converter (length, weight, temperature) based on React and TypeScript. Functionality: conversion drop-down list, date and time.'
     },
     {
-        id: 6,
+        id: 7,
         name: 'Weather App',
         url: 'https://lanachayka.github.io/weather-app/',
         source: 'https://github.com/lanachayka/weather-app',
@@ -63,7 +72,7 @@ export const projects = [
         description: 'Weather forecast site. Data processing from the server is implemented with Redux Toolkit. The preprocessor Less is used for styles.'
     },
     {
-        id: 7,
+        id: 8,
         name: 'Quiz',
         url: 'https://lanachayka.github.io/quiz/',
         source: 'https://github.com/lanachayka/quiz',
@@ -72,7 +81,7 @@ export const projects = [
         description: 'Website - quiz based on React and Redux. Opportunities to choose a topic and pass the quiz.'
     },
     {
-        id: 8,
+        id: 9,
         name: 'Chat App',
         url: 'https://lana-chat-app.herokuapp.com/',
         source: 'https://github.com/lanachayka/nodeJS-chat-app',
@@ -81,7 +90,7 @@ export const projects = [
         description: 'Real time chat app. Ability to correspond in real time, creation separate rooms.'
     },
     {
-        id: 9,
+        id: 10,
         name: 'Event Calendar',
         url: 'https://lanachayka.github.io/event-calendar/',
         source: 'https://github.com/lanachayka/event-calendar',
