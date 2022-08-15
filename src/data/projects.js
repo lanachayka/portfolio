@@ -32,8 +32,8 @@ export const projects = [
         url: 'https://lanachayka.github.io/fashion-house/',
         source: 'https://github.com/lanachayka/fashion-house',
         photo: 'fashion-house.png',
-        technologies: ['React', 'TypeScript'],
-        description: 'Fashion shop website. I am currently worked with this project.'
+        technologies: ['React', 'TypeScript', 'CSS'],
+        description: 'Fashion shop website which contains 8 pages. Data management based on React Context.'
     },
     {
         id: 4,
