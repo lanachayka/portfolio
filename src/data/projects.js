@@ -32,8 +32,8 @@ export const projects = [
         url: 'https://lanachayka.github.io/fashion-house/',
         source: 'https://github.com/lanachayka/fashion-house',
         photo: 'fashion-house.png',
-        technologies: ['React', 'TypeScript', 'CSS'],
-        description: 'Fashion shop website which contains 8 pages. Data management based on React Context.'
+        technologies: ['React', 'TypeScript', 'CSS', 'React Testing Library'],
+        description: 'Fashion shop website which contains 8 pages. Data management based on React Context. Unit testing for components created by using React Testing Library.'
     },
     {
         id: 4,
@@ -41,8 +41,8 @@ export const projects = [
         url: 'https://lanachayka.github.io/country-list/',
         source: 'https://github.com/lanachayka/country-list',
         photo: 'country-list.png',
-        technologies: ['React', 'GraphQL', 'Typescript'],
-        description: 'Website with information about countries. Data is displayed using GraphQL Apollo Client. Realized search and output of details. Unit testing using Enzyme and React Testing Library.'
+        technologies: ['React', 'GraphQL', 'Typescript', 'React Testing Library', 'Enzyme'],
+        description: 'Website with information about countries. Data is displayed using GraphQL Apollo Client. Realized search and output of details. Unit testing created by using Enzyme and React Testing Library.'
     },
     {
         id: 5,
