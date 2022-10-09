@@ -31,8 +31,11 @@
     display: flex;
     flex-direction: row;
     font-weight: bold;
-    justify-items: center;
+    justify-content: center;
     gap: 15px;
+    text-align: center;
+    flex-wrap: wrap;
+    align-items: center;
 }
 
 .description{
