@@ -82,15 +82,6 @@ export const projects = [
     },
     {
         id: 9,
-        name: 'Chat App',
-        url: 'https://lana-chat-app.herokuapp.com/',
-        source: 'https://github.com/lanachayka/nodeJS-chat-app',
-        photo: 'chat-app.png',
-        technologies: ['Node.js', 'Express.js'],
-        description: 'Real time chat app. Ability to correspond in real time, creation separate rooms.'
-    },
-    {
-        id: 10,
         name: 'Event Calendar',
         url: 'https://lanachayka.github.io/event-calendar/',
         source: 'https://github.com/lanachayka/event-calendar',
