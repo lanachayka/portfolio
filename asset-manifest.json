@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.6e35ebb0.css",
-    "main.js": "/portfolio/static/js/main.b1fdbeb5.js",
+    "main.js": "/portfolio/static/js/main.5ef1e41b.js",
     "static/media/fashion-house.png": "/portfolio/static/media/fashion-house.ba61a585e2350693393e.png",
     "static/media/plant-shop.png": "/portfolio/static/media/plant-shop.121ab00cf5711b852af3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.bf0e809486443018684d.png",
@@ -11,15 +11,16 @@
     "static/media/country-list.png": "/portfolio/static/media/country-list.f1eef6f73d70c4d8e214.png",
     "static/media/weather-app.png": "/portfolio/static/media/weather-app.e3e369c258daac492a2e.png",
     "static/media/shortly.png": "/portfolio/static/media/shortly.621262bf77a0397c2c7d.png",
+    "static/media/markdown-notes.png": "/portfolio/static/media/markdown-notes.fa2b91e2344d416efebe.png",
     "static/media/chat-app.png": "/portfolio/static/media/chat-app.303b0c89cbc34bb9fecd.png",
     "static/media/event-calendar.png": "/portfolio/static/media/event-calendar.f1c80fb1d853cfa71b53.png",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.d080a0dd755de85c57e6.jpg",
     "index.html": "/portfolio/index.html",
     "main.6e35ebb0.css.map": "/portfolio/static/css/main.6e35ebb0.css.map",
-    "main.b1fdbeb5.js.map": "/portfolio/static/js/main.b1fdbeb5.js.map"
+    "main.5ef1e41b.js.map": "/portfolio/static/js/main.5ef1e41b.js.map"
   },
   "entrypoints": [
     "static/css/main.6e35ebb0.css",
-    "static/js/main.b1fdbeb5.js"
+    "static/js/main.5ef1e41b.js"
   ]
 }
