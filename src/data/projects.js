@@ -64,6 +64,15 @@ export const projects = [
     },
     {
         id: 7,
+        name: 'Huddle',
+        url: 'https://lanachayka.github.io/huddle-styled-components/',
+        source: 'https://github.com/lanachayka/huddle-styled-components',
+        photo: 'huddle.png',
+        technologies: ['React', 'Styled-Components'],
+        description: 'Simple landing page created by using react styled-components with theme-switching functionality.'
+    },
+    {
+        id: 8,
         name: 'Converter',
         url: 'https://lanachayka.github.io/converter/',
         source: 'https://github.com/lanachayka/converter',
@@ -72,7 +81,7 @@ export const projects = [
         description: 'Units converter (length, weight, temperature) based on React and TypeScript. Functionality: conversion drop-down list, date and time.'
     },
     {
-        id: 8,
+        id: 10,
         name: 'Weather App',
         url: 'https://lanachayka.github.io/weather-app/',
         source: 'https://github.com/lanachayka/weather-app',
@@ -81,7 +90,7 @@ export const projects = [
         description: 'Weather forecast site. Data processing from the server is implemented with Redux Toolkit. The preprocessor Less is used for styles.'
     },
     {
-        id: 9,
+        id: 11,
         name: 'Quiz',
         url: 'https://lanachayka.github.io/quiz/',
         source: 'https://github.com/lanachayka/quiz',
@@ -90,7 +99,7 @@ export const projects = [
         description: 'Website - quiz based on React and Redux. Opportunities to choose a topic and pass the quiz.'
     },
     {
-        id: 10,
+        id: 12,
         name: 'Event Calendar',
         url: 'https://lanachayka.github.io/event-calendar/',
         source: 'https://github.com/lanachayka/event-calendar',
