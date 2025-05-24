@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6e35ebb0.css",
-    "main.js": "/portfolio/static/js/main.9a7bf259.js",
+    "main.css": "/portfolio/static/css/main.6d42a5b5.css",
+    "main.js": "/portfolio/static/js/main.d6a69106.js",
     "static/media/fashion-house.png": "/portfolio/static/media/fashion-house.ba61a585e2350693393e.png",
+    "static/media/food-next-app.png": "/portfolio/static/media/food-next-app.fddc20e39ab1d6b6dc0a.png",
     "static/media/plant-shop.png": "/portfolio/static/media/plant-shop.121ab00cf5711b852af3.png",
     "static/media/quiz.png": "/portfolio/static/media/quiz.bf0e809486443018684d.png",
     "static/media/space-travel.png": "/portfolio/static/media/space-travel.e2a33fcaf48ffa09e551.png",
@@ -17,11 +18,11 @@
     "static/media/event-calendar.png": "/portfolio/static/media/event-calendar.f1c80fb1d853cfa71b53.png",
     "static/media/avatar.jpg": "/portfolio/static/media/avatar.d080a0dd755de85c57e6.jpg",
     "index.html": "/portfolio/index.html",
-    "main.6e35ebb0.css.map": "/portfolio/static/css/main.6e35ebb0.css.map",
-    "main.9a7bf259.js.map": "/portfolio/static/js/main.9a7bf259.js.map"
+    "main.6d42a5b5.css.map": "/portfolio/static/css/main.6d42a5b5.css.map",
+    "main.d6a69106.js.map": "/portfolio/static/js/main.d6a69106.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e35ebb0.css",
-    "static/js/main.9a7bf259.js"
+    "static/css/main.6d42a5b5.css",
+    "static/js/main.d6a69106.js"
   ]
 }
